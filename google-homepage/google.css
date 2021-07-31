@@ -1,0 +1,62 @@
+div.centered {
+    position: absolute;
+    margin: auto;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.searchboxcenter {
+    position: absolute;
+    margin: auto;
+    top: 450px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    float: left;
+    display: inline;
+}
+
+.right {
+    float: right;
+    display: inline
+}
+
+a {
+    display: block;
+    padding: 12px;
+    font-family: Calibri;
+    
+}
+
+.footer {
+    width: 100%;
+    bottom: 0%;
+    position: absolute;
+    background-color: lightgray;
+}
+
+a:visited {
+    color: none;
+    text-decoration: none;
+}
+
+a:active {
+    color: none;
+    text-decoration: none;
+}
+
+.gcse-search {
+    left: auto;
+    right: auto;
+}
